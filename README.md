@@ -1,2 +1,2 @@
 # bitSimple
-Peer to peer money transfer effortlessly
+Effortlessly peer to peer money transfer 
